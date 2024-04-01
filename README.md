@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanyakandasamy
 - 👀 I’m interested in Analyzing and manipulating data
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently working as Data Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhanyashyam2020@gmail.com
 
